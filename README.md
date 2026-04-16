@@ -1,6 +1,6 @@
-# Codeforces Daily Tracker - Chrome Extension
+# Codeforces Daily Tracker - Firefox Extension
 
-A Chrome extension that tracks the number of Codeforces problems you've solved in the last 24 hours.
+A Firefox extension that tracks the number of Codeforces problems you've solved in the last 24 hours.
 
 ## Features
 
@@ -48,7 +48,7 @@ A Chrome extension that tracks the number of Codeforces problems you've solved i
 4. After review (few days), it's available for everyone to install
 5. **No registration fee** unlike Chrome!
 
-#### 🌐 **Chrome** (Requires $5 developer fee for publishing)
+#### 🌐 **Chrome** (Also Supported, requires $5 developer fee for publishing)
 
 **For Personal Use (Free)**
 1. Open Chrome and navigate to `chrome://extensions/`
@@ -78,7 +78,7 @@ A Chrome extension that tracks the number of Codeforces problems you've solved i
 ## Usage
 
 1. **First Time Setup**:
-   - Click on the extension icon in your Chrome toolbar
+   - Click on the extension icon in your Firefox toolbar
    - Enter your Codeforces handle (e.g., "tourist")
    - Click "Save Handle"
    - The extension will fetch your submissions and display your count
