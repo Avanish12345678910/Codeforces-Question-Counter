@@ -1,5 +1,6 @@
 # Codeforces Daily Tracker - Firefox Extension
 Deployment link : [https://addons.mozilla.org/en-US/firefox/addon/codeforces-daily-tracker/](url)
+
 A Firefox extension that tracks the number of Codeforces problems you've solved in the last 24 hours.
 
 ## Features
